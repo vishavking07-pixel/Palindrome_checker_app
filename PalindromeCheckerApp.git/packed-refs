@@ -1,0 +1,27 @@
+# pack-refs with: peeled fully-peeled sorted 
+fef9232504ffb51fa477f5bd72b7106b823ed738 refs/heads/UC1-WelComePage
+5bbcfc741c5946cb50b32bf598b3d93a19f7081c refs/heads/UC2
+d28c04284a0f426cbcc0e8cec16456dcdf1697e0 refs/heads/UC3
+a3aa1de8053030ecf9def92c7aae9c7b33e7fde1 refs/heads/UC4
+a12192756c730d3a97ae71486aa2d8eaf2bc0898 refs/heads/UC5
+cca7a63d7bd8effbc4d9492c717701628f9be1c9 refs/heads/UC6
+69cc3c28cb78eea9535964fd9b18d65460a22c69 refs/heads/UC7
+43d4d903ad627f7aa4930887e4e36cb19f98a7b0 refs/heads/UCL10
+ae071075f8568d873fffd14c5ba29963971acf18 refs/heads/UCL11
+7346c8d3620a51cdda34c032a59e2a15d115c348 refs/heads/UCL12
+49f0ad62abd890a843328afffdd65187f1a7411a refs/heads/UCL13
+93d00c502a9203f30a9803c5dfffd1ad383c203e refs/heads/UCL8
+e4b94042f238495fce0ec8bd20a661aaa296bbdf refs/heads/UCL9
+6ad756bedcd3415d54c11f2d59b06a4fa040c30a refs/heads/main
+fef9232504ffb51fa477f5bd72b7106b823ed738 refs/pull/1/head
+ae071075f8568d873fffd14c5ba29963971acf18 refs/pull/10/head
+7346c8d3620a51cdda34c032a59e2a15d115c348 refs/pull/11/head
+49f0ad62abd890a843328afffdd65187f1a7411a refs/pull/12/head
+5bbcfc741c5946cb50b32bf598b3d93a19f7081c refs/pull/2/head
+d28c04284a0f426cbcc0e8cec16456dcdf1697e0 refs/pull/3/head
+a3aa1de8053030ecf9def92c7aae9c7b33e7fde1 refs/pull/4/head
+a12192756c730d3a97ae71486aa2d8eaf2bc0898 refs/pull/5/head
+cca7a63d7bd8effbc4d9492c717701628f9be1c9 refs/pull/6/head
+69cc3c28cb78eea9535964fd9b18d65460a22c69 refs/pull/7/head
+e4b94042f238495fce0ec8bd20a661aaa296bbdf refs/pull/8/head
+43d4d903ad627f7aa4930887e4e36cb19f98a7b0 refs/pull/9/head
